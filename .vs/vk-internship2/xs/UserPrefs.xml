@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E0070C79-EE36-485A-B8B9-249FCCBF8AB4}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vk-internship2 PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="vk-internship2/Startup.cs">
+    <Files>
+      <File FileName="vk-internship2/Program.cs" Line="10" Column="43" />
+      <File FileName="vk-internship2/Models/User.cs" Line="16" Column="3" />
+      <File FileName="vk-internship2/Models/User_group.cs" Line="7" Column="1" />
+      <File FileName="vk-internship2/Models/User_state.cs" Line="9" Column="1" />
+      <File FileName="vk-internship2/Controllers/HomeController.cs" Line="14" Column="47" />
+      <File FileName="vk-internship2/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="vk-internship2/Data/MyDbContext.cs" Line="14" Column="3" />
+      <File FileName="vk-internship2/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vk-internship2" expanded="True">
+            <Node name="vk-internship2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
